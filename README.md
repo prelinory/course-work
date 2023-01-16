@@ -42,7 +42,7 @@
 
 #### Структура базы данных
 
-![хореография](https://github.com/prelinory/course-work/blob/main/img/api.png)
+![хореография](https://github.com/prelinory/course-work/blob/main/img/api.jpg)
 
 
 #### Алгоритм
