@@ -52,8 +52,8 @@
 #### Алгоритм
 
 Алгоритм, чтобы встать в очередь
-https://github.com/prelinory/course-work/blob/main/img/algst.png
+!(https://github.com/prelinory/course-work/blob/main/img/algst.png)
 
 Алгорит работы для преподаватей и администратора
-https://github.com/prelinory/course-work/blob/main/img/algteacher.png
+!(https://github.com/prelinory/course-work/blob/main/img/algteacher.png)
 
